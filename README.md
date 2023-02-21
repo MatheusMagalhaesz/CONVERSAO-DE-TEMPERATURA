@@ -1,6 +1,6 @@
 # CONVERSAO-DE-TEMPERATURA
 
-Utilize a conversão de temperatura da seguinte forma, assim que iniciado no terminal PYTHON, deverá seguir os seguintes passos:
+Assim que o terminal PYTHON iniciar, Utilize a conversão de temperatura conforme os passos abaixo:
 
 
 
