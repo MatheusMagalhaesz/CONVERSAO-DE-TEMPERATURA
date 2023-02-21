@@ -18,4 +18,4 @@ Utilize a conversão de temperatura da seguinte forma, assim que iniciado no ter
 ![image](https://user-images.githubusercontent.com/93952316/220374742-9a402554-4f36-4aef-87f7-d048b7661147.png)
 
 
-* Vale ressaltar: Para que o script funcione com êxito você deve utilizar a temperatura em Kelvin apenas como 'kelvin' e Fahrenheit apenas como 'far' *
+* Vale ressaltar: Para que o script funcione com êxito você deve utilizar a temperatura em Kelvin apenas como 'kelvin' e Fahrenheit apenas como 'far' 
