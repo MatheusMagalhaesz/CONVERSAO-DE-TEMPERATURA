@@ -1,5 +1,14 @@
-c = float(input('Informe a temperatura em graus Celsius para converter para Fahrenheit: '))
+celsius = float(input('Informe a temperatura em graus Celsius para realizar a conversão: '))
+conv = input('Você gostaria de converter para Kelvin ou Fahrenheit: ')
 
-F = c * 9 / 5 + 32
+far = 1.8 * celsius + 32
+kelvin = celsius + 273
 
-print('A temperatura em Fahrenheit é {} graus F'.format(F))
+if conv == 'far':
+    print('A conversão de {} graus Celsius para Fahrenheit resulta em {} graus F.'.format(celsius, far))
+elif conv == 'kelvin':
+    print('A conversão de {} graus Celsius para Kelvin resulta em {} graus K.'.format(celsius, kelvin))
+
+else:
+    print('Tente novamente')
+
